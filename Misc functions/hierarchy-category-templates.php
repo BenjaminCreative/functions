@@ -25,5 +25,5 @@ function so_3119961_load_cat_parent_template( $template ) {
 	return $template;
 }
 
-add_filter( 'category_template', 'so_3119961_load_cat_parent_template' ); 
+add_filter( 'category_template', 'so_3119961_load_cat_parent_template' );  
 ?>
