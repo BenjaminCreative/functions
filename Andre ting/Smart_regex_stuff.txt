@@ -1,0 +1,3 @@
+## Smarte Regex linjer
+//Fjerner alle dublicates i en fil.
+^(.*)(\r?\n\1)+$ /1 
